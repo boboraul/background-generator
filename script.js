@@ -11,7 +11,7 @@ const loadStorageBtn = document.getElementById('load-storage');
 const clearStorageBtn = document.getElementById('clear-storage');
 const downloadBtn = document.getElementById('download');
 const { body } = document;
-const BRUSH_TIME = 1500;
+const BRUSH_TIME = 1600;
 
 // Global Variables
 const canvas = document.createElement('canvas');
